@@ -49,7 +49,7 @@ int main()
  Puch (6) ;
  Puch (40) ;
  Puch (8) ;
- Puch (95) ;
+ Puch (50) ;
  pop () ;
  Print_Stack() ;
     return 0;
